@@ -1,7 +1,7 @@
 
 body {
     background-color: black;
-    font-family: handjet;
+    font-family: 'Handjet', sans-serif;
 }
 
 .background-container {
@@ -19,7 +19,7 @@ body {
     height: 100px;
     position: absolute;
     z-index: -5;
-
+}
 .container-fluid {
     color: #94ECBE;
     text-align: center; 

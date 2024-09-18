@@ -1,0 +1,63 @@
+
+body {
+    background-color: black;
+    font-family: handjet;
+}
+
+.background-container {
+	background-image: url(starsearch.gif);
+    background-position: center;
+    width: 1450px; 
+    height: 135px; 
+    position: absolute;
+    z-index: -5;
+}
+.bottomgif {
+	background-image: url(heart.gif);
+    background-position: center;
+    width: 1500px; 
+    height: 100px;
+    position: absolute;
+    z-index: -5;
+
+.container-fluid {
+    color: #94ECBE;
+    text-align: center; 
+}
+
+.sobratcoded:hover {
+    color: #fff;
+    background-color: #6AA74E; 
+    border-color: #6AA74E;
+}
+
+#box-g img {
+    align-items: center;
+    align-content: center;
+}
+
+/* link colors and stuff */
+a:link {
+  color: #95D5B2;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #D8F3DC;
+  background-color: transparent;
+  text-decoration: none;
+}
+/* hover btn */
+a:hover {
+  color: #B7E4C7;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #95D5B2;
+  background-color: transparent;
+  text-decoration: underline;
+}
+/* link colors */

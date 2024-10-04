@@ -25,12 +25,6 @@ body {
     text-align: center; 
 }
 
-.sobratcoded:hover {
-    color: #fff;
-    background-color: #6AA74E; 
-    border-color: #6AA74E;
-}
-
 #box-g img {
     align-items: center;
     align-content: center;
